@@ -41,7 +41,7 @@ DEPI_Graduation_project/
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/HajarElbehairy/DEPI_Graduation_project.git
+   git clone https://github.com/mohamedhisham74/AI_Email_Generator-.git
    cd DEPI_Graduation_project
    ```
 
